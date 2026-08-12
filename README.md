@@ -21,13 +21,13 @@
 
 <h2>About Me</h2>
 
-Software Engineer focused on building structured, reliable, and maintainable backend applications.
+Welcome to my GitHub repository! I'm João Pedro Belon, a Software Engineer focused on backend development and building structured, reliable, and maintainable software.
 
-My main stack is centered on Java and Spring Boot, with experience developing REST APIs, integrating relational databases, applying validation and exception handling, documenting APIs, working with authentication and security concepts, testing applications, and containerizing services.
+My main stack is centered on Java and Spring Boot, where I work with REST APIs, relational databases, validation, exception handling, authentication, testing, containerization, and API documentation.
 
-I also work with Python and Apex (Salesforce), alongside familiarity with JavaScript, React, HTML, and CSS, which gives me a broader understanding of how complete software systems connect from backend services to user-facing applications.
+I also work with Python and Apex (Salesforce), alongside experience with JavaScript, React, HTML, and CSS, which gives me a broader understanding of how different parts of a software system connect and work together.
 
-Engineering principles: clean code, separation of concerns, clear architecture, maintainability, and reliable system design.
+Here you can explore the projects I develop, the technologies I work with, and the way I approach software engineering through clean code, clear architecture, separation of concerns, maintainability, and reliable system design.
 
 <hr>
 
