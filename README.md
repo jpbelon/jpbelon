@@ -1,23 +1,25 @@
-<div align="center">
+<h1 align="center">João Pedro Belon</h1>
 
-João Pedro Belon
+<h2 align="center">Software Engineer</h2>
 
-Software Engineer
+<p align="center">
+  <strong>Backend Development • API Design • Software Architecture</strong>
+</p>
 
-Backend Development • API Design • Software Architecture
+<p align="center">
+  Building reliable backend systems, well-designed APIs, and maintainable software.
+</p>
 
-Building reliable backend systems, well-designed APIs, and maintainable software.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-Applications-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Data-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
-<br>
+<hr>
 
-<img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring_Boot-Applications-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/PostgreSQL-Data-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-
-</div>
-
-About Me
+<h2>About Me</h2>
 
 Software Engineer focused on building structured, reliable, and maintainable backend applications.
 
@@ -27,42 +29,46 @@ I also work with Python and Apex (Salesforce), alongside familiarity with JavaSc
 
 Engineering principles: clean code, separation of concerns, clear architecture, maintainability, and reliable system design.
 
-Engineering Areas
+<hr>
+
+<h2>Engineering Areas</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>⚙️ Backend Development</strong><br><br>
+      <h3>⚙️ Backend Development</h3>
       Java, Spring Boot, RESTful APIs, layered architectures, DTOs, validation, and exception handling.
     </td>
     <td width="50%" valign="top">
-      <strong>🗄️ Data & Persistence</strong><br><br>
+      <h3>🗄️ Data & Persistence</h3>
       PostgreSQL, SQL, Spring Data JPA, Hibernate, and database migrations.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>🔐 API Security & Documentation</strong><br><br>
+      <h3>🔐 API Security & Documentation</h3>
       Spring Security, JWT, OAuth2 Resource Server, OpenAPI, and Swagger UI.
     </td>
     <td width="50%" valign="top">
-      <strong>🧪 Testing & Development Workflow</strong><br><br>
+      <h3>🧪 Testing & Development Workflow</h3>
       JUnit, Spring Boot Test, Testcontainers, Postman, Git, and GitHub.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>🐳 Infrastructure & Tooling</strong><br><br>
+      <h3>🐳 Infrastructure & Tooling</h3>
       Docker, Maven, IntelliJ IDEA, and Visual Studio Code.
     </td>
     <td width="50%" valign="top">
-      <strong>💻 Additional Technologies</strong><br><br>
+      <h3>💻 Additional Technologies</h3>
       Python, Apex (Salesforce), JavaScript, React, HTML, and CSS.
     </td>
   </tr>
 </table>
 
-Languages and Tools
+<hr>
+
+<h2>Languages and Tools</h2>
 
 <table>
   <tr>
@@ -147,7 +153,7 @@ Languages and Tools
 
 <div align="center">
 
-Connect with Me
+<h2 align="center">Connect with Me</h2>
 
 <a href="http://www.linkedin.com/in/joão-pedro-belon-32b1593b3" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
